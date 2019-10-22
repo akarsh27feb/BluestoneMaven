@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="scripts.Bluestone_01"/>
+      <class name="scripts.Bluestone_02"/>
+      <class name="scripts.Bluestone_03"/>
+      <class name="scripts.Bluestone_04"/>
+      <class name="scripts.Bluestone_05"/>
+      <class name="scripts.Bluestone_06"/>
+      <class name="scripts.Bluestone_07"/>
+      <class name="scripts.Bluestone_08"/>
+      <class name="scripts.Bluestone_09"/>
+      <class name="scripts.Bluestone_10"/>
+      <class name="scripts.Bluestone_11"/>
+      <class name="scripts.Bluestone_12"/>
+      <class name="scripts.Bluestone_13"/>
+      <class name="scripts.Bluestone_14"/>
+      <class name="scripts.Bluestone_15"/>
+      <class name="scripts.Bluestone_16"/>
+      <class name="scripts.Bluestone_17"/>
+      <class name="scripts.Bluestone_18"/>
+      <class name="scripts.Bluestone_19"/>
+      <class name="scripts.Bluestone_20"/>
+      <class name="scripts.Bluestone_21"/>
+      <class name="scripts.Bluestone_22"/>
+      <class name="scripts.Bluestone_23"/>
+      <class name="scripts.Bluestone_24"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

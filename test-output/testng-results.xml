@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="133950" started-at="2019-10-22T15:42:08 IST" finished-at="2019-10-22T15:44:22 IST">
+    <groups>
+    </groups>
+    <test name="chrome" duration-ms="107598" started-at="2019-10-22T15:42:08 IST" finished-at="2019-10-22T15:43:56 IST">
+      <class name="scripts.Bluestone_25">
+        <test-method status="PASS" signature="openApp(java.lang.String)[pri:0, instance:scripts.Bluestone_25@3e27ba32]" name="openApp" is-config="true" duration-ms="31429" started-at="2019-10-22T15:42:08 IST" finished-at="2019-10-22T15:42:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="Scenario_12()[pri:0, instance:scripts.Bluestone_25@3e27ba32]" name="Scenario_12" duration-ms="72694" started-at="2019-10-22T15:42:40 IST" finished-at="2019-10-22T15:43:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_12 -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:scripts.Bluestone_25@3e27ba32]" name="closeApp" is-config="true" duration-ms="3298" started-at="2019-10-22T15:43:53 IST" finished-at="2019-10-22T15:43:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- scripts.Bluestone_25 -->
+    </test> <!-- chrome -->
+    <test name="firefox" duration-ms="133950" started-at="2019-10-22T15:42:08 IST" finished-at="2019-10-22T15:44:22 IST">
+      <class name="scripts.Bluestone_25">
+        <test-method status="PASS" signature="openApp(java.lang.String)[pri:0, instance:scripts.Bluestone_25@4d0d9fe7]" name="openApp" is-config="true" duration-ms="79600" started-at="2019-10-22T15:42:08 IST" finished-at="2019-10-22T15:43:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="Scenario_12()[pri:0, instance:scripts.Bluestone_25@4d0d9fe7]" name="Scenario_12" duration-ms="43481" started-at="2019-10-22T15:43:28 IST" finished-at="2019-10-22T15:44:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_12 -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:scripts.Bluestone_25@4d0d9fe7]" name="closeApp" is-config="true" duration-ms="10706" started-at="2019-10-22T15:44:12 IST" finished-at="2019-10-22T15:44:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- scripts.Bluestone_25 -->
+    </test> <!-- firefox -->
+  </suite> <!-- Suite -->
+</testng-results>
